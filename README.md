@@ -1,6 +1,12 @@
 ### Hi there 👋
 
+#
+![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=darBis&layout=compact&theme=dark)
+
 <!--
+![GitHub stats](https://github-readme-stats.zohan.tech/api?username=darBis&show_icons=true&theme=dark)<br/>
+
+
 **darBis/darBis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
